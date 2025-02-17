@@ -5,11 +5,12 @@ function findSecondLargest(inputValues) {
     let largest = -Infinity;
     let secondLargest = -Infinity
     for(i=0; i<inputValues.length; i++) {
-        if(inputValues[i] > largest) {
+        let currentValue = inputValues[i];
+        if(currentValue > largest) {
             secondLargest = largest;
-            largest = inputValues[i];
-        } else if(inputValues[i] > secondLargest && inputValues[i] !== largest) {
-            secondLargest = inputValues[i]
+            largest = currentValue;
+        } else if(currentValue > secondLargest && currentValue !== largest) {
+            secondLargest = currentValue
         }
     }
     return secondLargest;
