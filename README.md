@@ -14,4 +14,4 @@
 4. Write a JavaScript program that find the first non-repeating character – Find the first character in a string that does not repeat.
 5. Write a JavaScript program Check for Anagram – Given two strings, check if they are anagrams of each other.
 6. Write a JavaScript program Check for Remove duplicate characters while maintaining the order.
-
+7. Write a JavaScript program Find All Substrings – Generate all possible substrings of a given string.
