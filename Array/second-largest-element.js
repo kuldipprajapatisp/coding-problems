@@ -1,6 +1,5 @@
 // Write a javascript program where find the second largest element from array.
 
-
 function findSecondLargest(inputValues) {
     let largest = -Infinity;
     let secondLargest = -Infinity

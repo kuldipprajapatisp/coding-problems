@@ -1,6 +1,5 @@
 // Write a javascript program where find the second smallest element from array.
 
-
 function findSecondSmallest(inputValues) {
     let smallest = Infinity;
     let secondSmallest = Infinity
