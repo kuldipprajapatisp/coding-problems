@@ -15,3 +15,4 @@
 5. Write a JavaScript program Check for Anagram – Given two strings, check if they are anagrams of each other.
 6. Write a JavaScript program Check for Remove duplicate characters while maintaining the order.
 7. Write a JavaScript program Find All Substrings – Generate all possible substrings of a given string.
+8. Write a JavaScript program Longest Substring Without Repeating Characters – Find the length of the longest substring without repeating characters.
